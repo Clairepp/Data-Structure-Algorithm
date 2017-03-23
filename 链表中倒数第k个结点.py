@@ -4,7 +4,7 @@
 #         self.val = x
 #         self.next = None
  
-# 链表中倒数第k个结点
+
 # 输入一个链表，输出该链表中倒数第k个结点。
 
 class Solution:
