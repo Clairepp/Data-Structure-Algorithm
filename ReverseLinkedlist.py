@@ -1,3 +1,6 @@
+#反转链表
+#输入一个链表，反转链表后，输出链表的所有元素。
+
 # -*- coding:utf-8 -*-
 # class ListNode:
 #     def __init__(self, x):
